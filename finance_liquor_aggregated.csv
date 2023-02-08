@@ -1,0 +1,69 @@
+zip_code,category_name,store_name,percent_%,bottles_sold
+50010.0,Special Order Items,Sam's Club 6568 / Ames,5.11,288
+50022.0,Triple Sec,Hy-Vee Wine and Spirits / Atlantic,0.07,4
+50111.0,American Distilled Spirit Specialty,Fareway Stores #983 / Grimes,1.92,108
+50131.0,100 PROOF VODKA,Hy-Vee Food Store / Johnston,0.85,48
+50158.0,Coffee Liqueurs,Depot Liquor & Grocery,0.05,3
+50158.0,Coffee Liqueurs,Hy-Vee Food Store / Marshalltown,0.11,6
+50263.0,DECANTERS & SPECIALTY PACKAGES,Hy-Vee / Waukee,1.49,84
+50265.0,Coffee Liqueurs,Fareway Stores #153  /  W Des Moines,1.28,72
+50266.0,DECANTERS & SPECIALTY PACKAGES,Hy-Vee Wine and Spirits / WDM,1.6,90
+50314.0,PEACH BRANDIES,Shop N Save #1 / Mlk Pkwy,0.43,24
+50314.0,TRIPLE SEC,Central City 2,1.06,60
+50314.0,Triple Sec,Central City 2,3.19,180
+50317.0,PEACH BRANDIES,Hy-Vee Wine and Spirits / Hubbell,0.43,24
+50320.0,DISTILLED SPIRITS SPECIALTY,Hy-Vee #3 / BDI / Des Moines,2.13,120
+50320.0,Imported Distilled Spirit Specialty,Hy-Vee #3 / BDI / Des Moines,1.28,72
+50320.0,Iowa Distillery Whiskies,Hy-Vee #3 / BDI / Des Moines,1.17,66
+50327.0,Gold Rum,Fareway Stores #138 / Pleasant Hill,1.81,102
+50401.0,Neutral Grain Spirits Flavored,Hy-Vee Food Store #1 / Mason City,0.32,18
+50401.0,Neutral Grain Spirits Flavored,Hy-Vee Food Store #1 / Mason City,0.85,48
+50461.0,100 PROOF VODKA,Osage Payless Foods,0.53,30
+50501.0,100 PROOF VODKA,Hy-Vee Food Store / Fort Dodge,1.92,108
+50588.0,ROOT BEER SCHNAPPS,Hy-Vee Wine and Spirits / Storm Lake,0.07,4
+50662.0,Neutral Grain Spirits Flavored,Fareway Stores #412 / Oelwein,0.14,8
+50701.0,Gold Rum,New Star Liquor / W 4th S / Waterloo,0.07,4
+50701.0,Gold Rum,New Star Liquor / W 4th S / Waterloo,0.12,7
+50701.0,Triple Sec,Hy-Vee Wine and Spirits / Waterloo,0.04,2
+50702.0,DISTILLED SPIRITS SPECIALTY,Sam's Club 6514 / Waterloo,13.63,768
+50702.0,Special Order Items,Hy-Vee Food Store #3 / Waterloo,0.32,18
+50703.0,100 PROOF VODKA,Logan Convenience Store,0.43,24
+50703.0,DECANTERS & SPECIALTY PACKAGES,Hy-Vee Food Store #2 / Waterloo,3.19,180
+50703.0,Gold Rum,Hy-Vee Food Store #2 / Waterloo,0.02,1
+50707.0,IRISH WHISKIES,Fareway Stores #067 / Evansdale,1.06,60
+50801.0,Gold Rum,Fareway Stores #597 / Creston,0.09,5
+51106.0,Coffee Liqueurs,Sam's Club 6432 / Sioux City,1.49,84
+51106.0,Coffee Liqueurs,Sam's Club 6432 / Sioux City,4.26,240
+51106.0,TRIPLE SEC,Sam's Club 6432 / Sioux City,2.56,144
+51246.0,SPEARMINT SCHNAPPS,Liquor Locker,0.09,5
+51247.0,Triple Sec,Pump N Pak,0.11,6
+51360.0,Imported Distilled Spirit Specialty,Hy-Vee Wine and Spirits / Spirit Lake,0.85,48
+51401.0,American Sloe Gins,Fareway Stores #409 / Carroll,0.07,4
+51401.0,Gold Rum,Hy-Vee Food Store / Carroll,0.21,12
+51401.0,Straight Rye Whiskies,Hy-Vee Food Store / Carroll,0.32,18
+51501.0,Coffee Liqueurs,Speedy Gas N Shop,0.12,7
+51501.0,Gold Rum,Tobacco Hut #14 / Council Bluffs,0.07,4
+51501.0,MISCELLANEOUS SCHNAPPS,Hy-Vee Drugstore / Council Bluffs,0.04,2
+51501.0,Triple Sec,I-80 Liquor / Council Bluffs,0.85,48
+51555.0,Gold Rum,Food Land Super Markets,0.04,2
+52001.0,Coffee Liqueurs,"Iowa Street Market, Inc.",0.07,4
+52003.0,Gold Rum,Sid's Beverage Shop,0.09,5
+52136.0,American Vodka,The Ox & Wren Spirits and Gifts,0.04,2
+52172.0,Coffee Liqueurs,Double D Liquor Store,0.02,1
+52240.0,STRAIGHT RYE WHISKIES,Hy-Vee Wine and Spirits / Iowa City,0.32,18
+52240.0,Triple Sec,Hy-Vee Wine and Spirits / Iowa City,1.06,60
+52241.0,Gold Rum,Bootleggin' Barzini's Fin,0.02,1
+52241.0,Imported Distilled Spirit Specialty,Hy-Vee Food Store / Coralville,0.85,48
+52314.0,DISTILLED SPIRITS SPECIALTY,Wilkie Liquors,11.71,660
+52314.0,Imported Distilled Spirit Specialty,Wilkie Liquors,15.97,900
+52338.0,SINGLE MALT SCOTCH,Cedar Ridge Vineyards,1.6,90
+52402.0,Gold Rum,CVS Pharmacy #8526 / Cedar Rapids,0.12,7
+52402.0,Triple Sec,Sam's Club 8162 / Cedar Rapids,3.83,216
+52411.0,Neutral Grain Spirits,Hy-Vee #7 / Cedar Rapids,0.64,36
+52556.0,Triple Sec,Hy-Vee Food Store / Fairfield,0.11,6
+52601.0,100 PROOF VODKA,Quik Stop  /  Burlington,0.85,48
+52627.0,Coffee Liqueurs,Quicker Liquor Store,0.64,36
+52732.0,Gold Rum,Hy-Vee Food and Drug / Clinton,0.43,24
+52761.0,PEACH SCHNAPPS,Nash Finch / Wholesale Food,0.07,4
+52803.0,Neutral Grain Spirits,Hilltop Grocery,0.05,3
+52804.0,Imported Distilled Spirit Specialty,Famous Liquors,0.04,2
