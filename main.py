@@ -1,23 +1,16 @@
 
 import pandas as pd
 import matplotlib.pyplot as plt
-import numpy as np
 
-df = pd.read_csv('finance_liquor_aggregated.csv')
-print(df.info())
+df=pd.read_csv("finance_liquor_sales_2016_2019.csv")
+df['percent_%'] = round((df['bottles_sold'] / df['bottles_sold'].sum())*100,2)
+cn = df.groupby(['zip_code','category_name','store_name','percent_%'])['bottles_sold'].sum()
+print(cn)
 
-x=df['zip_code']
-y=df['bottles_sold']
-colors = np.random.randint(68, size=(68))
-
-plt.scatter(x, y, c=colors, cmap='nipy_spectral')
-
-plt.title("Bottles Sold")
-plt.xlabel("Zip Code")
-plt.ylabel("Bottles Sold")
+cn.to_csv('finance_liquor_aggregated.csv')
 
 
-plt.show()
+
 
 
 
