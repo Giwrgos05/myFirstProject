@@ -1,0 +1,5 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+df=pd.read_csv("finance_liquor_sales_2016_2019.csv")
